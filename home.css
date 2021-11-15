@@ -1,0 +1,25 @@
+body{
+    background-color: gray;
+}
+
+.header {
+    font-size: 3em;
+    text-align: center;
+}
+
+
+tr{
+    border: 3px solid;
+    height: 300px;
+    width: 100%;
+    
+}
+
+img{
+    width: 400px;
+    height: 300px;
+    border: 2px solid black;
+    margin: 45px 45px 45px 45px;
+    display:inline-table;
+}
+
